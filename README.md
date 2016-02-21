@@ -3,6 +3,10 @@ Port Street Fighter 1 for Web with Html5 + JavaScript
 
 ## [Development's video playlist](https://www.youtube.com/playlist?list=PLNph7ndeSqE_UnmP9yFprGpAzudlRTg3r) 
 
+## Source : 
+* Distribution : https://github.com/vicboma1/streetFighter1/tree/master/src/distribution
+* Developed : https://github.com/vicboma1/streetFighter1/tree/master/src/developed
+
 ## [Intro :](https://www.youtube.com/watch?v=0Q1pxyNuRmc&list=PLNph7ndeSqE_UnmP9yFprGpAzudlRTg3r&index=1)
 
 [![](https://github.com/vicboma1/streetFighter1/blob/master/gif/intro.gif)](https://www.youtube.com/watch?v=0Q1pxyNuRmc&list=PLNph7ndeSqE_UnmP9yFprGpAzudlRTg3r&index=1)
