@@ -1,0 +1,124 @@
+{"frames": {
+
+"0.png":
+{
+	"frame": {"x":1545,"y":227,"w":124,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":124,"h":80},
+	"sourceSize": {"w":125,"h":80}
+},
+"000.png":
+{
+	"frame": {"x":1,"y":197,"w":384,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":224},
+	"sourceSize": {"w":384,"h":224}
+},
+"001.png":
+{
+	"frame": {"x":517,"y":1,"w":384,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":224},
+	"sourceSize": {"w":384,"h":224}
+},
+"002.png":
+{
+	"frame": {"x":387,"y":227,"w":384,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":224},
+	"sourceSize": {"w":384,"h":224}
+},
+"003.png":
+{
+	"frame": {"x":773,"y":227,"w":384,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":224},
+	"sourceSize": {"w":384,"h":224}
+},
+"004.png":
+{
+	"frame": {"x":903,"y":1,"w":384,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":224},
+	"sourceSize": {"w":384,"h":224}
+},
+"005.png":
+{
+	"frame": {"x":1159,"y":227,"w":384,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":224},
+	"sourceSize": {"w":384,"h":224}
+},
+"006.png":
+{
+	"frame": {"x":1289,"y":1,"w":384,"h":224},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":384,"h":224},
+	"sourceSize": {"w":384,"h":224}
+},
+"1.png":
+{
+	"frame": {"x":1661,"y":309,"w":106,"h":80},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":0,"w":106,"h":80},
+	"sourceSize": {"w":125,"h":80}
+},
+"2.png":
+{
+	"frame": {"x":1675,"y":1,"w":90,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":13,"y":0,"w":90,"h":77},
+	"sourceSize": {"w":125,"h":80}
+},
+"3.png":
+{
+	"frame": {"x":1545,"y":309,"w":114,"h":74},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":4,"w":114,"h":74},
+	"sourceSize": {"w":125,"h":80}
+},
+"insertCoin.png":
+{
+	"frame": {"x":1545,"y":391,"w":215,"h":22},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":1,"w":215,"h":22},
+	"sourceSize": {"w":225,"h":25}
+},
+"logo.png":
+{
+	"frame": {"x":1,"y":1,"w":514,"h":194},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":514,"h":194},
+	"sourceSize": {"w":520,"h":200}
+},
+"vicboma2016.png":
+{
+	"frame": {"x":1,"y":423,"w":276,"h":24},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":276,"h":24},
+	"sourceSize": {"w":280,"h":25}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "streetFighter1.png",
+	"format": "RGBA8888",
+	"size": {"w":1768,"h":452},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:3ab33632d27539f898a5d3b5b7b59ccc:d571a91d7b44a99868f93915d76d6473:6bf4ec1d0b16815354a533500b542255$"
+}
+}
