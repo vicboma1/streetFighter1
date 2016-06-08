@@ -19,3 +19,4 @@ Port Street Fighter 1 for Web with Html5 + JavaScript
 
 ![](https://github.com/vicboma1/streetFighter1/blob/master/images/Screen%20Shot%202016-02-21%20at%2012.14.17.png)
 
+@Author: Victor Bolinches Marin
