@@ -1,7 +1,7 @@
 # Street Fighter 1 For Web ( NON COMMERCIAL !)
 Port Street Fighter 1 for Web with Html5 + JavaScript
 
-## [Development's video playlist](https://www.youtube.com/playlist?list=PLNph7ndeSqE_UnmP9yFprGpAzudlRTg3r) 
+## [Development's video playlist (4 Videos)](https://www.youtube.com/playlist?list=PLNph7ndeSqE_UnmP9yFprGpAzudlRTg3r) 
 
 ## Source : 
 * Distribution : https://github.com/vicboma1/streetFighter1/tree/master/src/distribution
