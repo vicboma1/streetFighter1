@@ -7,7 +7,7 @@ Port Street Fighter 1 for Web with Html5 + JavaScript
 * Distribution : https://github.com/vicboma1/streetFighter1/tree/master/src/distribution
 * Developed : https://github.com/vicboma1/streetFighter1/tree/master/src/developed
 
-## [Intro :](https://www.youtube.com/watch?v=0Q1pxyNuRmc&list=PLNph7ndeSqE_UnmP9yFprGpAzudlRTg3r&index=1)
+## [Intro : ](https://www.youtube.com/watch?v=0Q1pxyNuRmc&list=PLNph7ndeSqE_UnmP9yFprGpAzudlRTg3r&index=1)
 
 [![](http://i.giphy.com/3o6gbfnxLKTl497fxK.gif)](https://www.youtube.com/watch?v=0Q1pxyNuRmc&list=PLNph7ndeSqE_UnmP9yFprGpAzudlRTg3r&index=1)
 
